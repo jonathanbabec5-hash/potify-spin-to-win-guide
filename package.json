@@ -1,0 +1,8 @@
+{
+  "name": "potify-spin-to-win",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "check:public": "node --test tests/routes.test.mjs"
+  }
+}

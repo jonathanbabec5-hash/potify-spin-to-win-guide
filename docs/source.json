@@ -1,0 +1,6 @@
+{
+  "project": "Spin to Win and Prize Verification",
+  "kind": "Public route and integration guide",
+  "source": "Publicly served main-site JavaScript verified on November 25. The asset URL and SHA-256 are recorded in src/routes.json. The manifest and tests are newly authored.",
+  "scope": "The original spin engine and prize records were unavailable. No redemption, prize funding or availability was verified."
+}
