@@ -20,4 +20,4 @@ Use `spin-to-win-first-public-build` for the pilot. Record a 28-day prelaunch ba
 
 Proposed pilot budget is $0 for distribution and two founder hours for the first demonstration. At day 7, inspect the biggest point of friction. At day 28, expand only if the target action was measured and the sales test produced identifiable demand. Report fulfilled sales net of refunds and direct costs. A product serving trust or internal operations may have no direct sales at all.
 
-**Prerequisite for external promotion.** The original spin engine and prize records were unavailable. No redemption, prize funding or availability was verified. Draft copy and placements go through the existing approval process.
+**Prerequisite for external promotion.** Original promotion logic and schema were inspected. No live draw, participant data, prize inventory, redemption or commercial availability was verified. Draft copy and placements go through the existing approval process.

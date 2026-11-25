@@ -1,7 +1,7 @@
 # Spin to Win and Prize Verification
 ## Whitepaper · public developer edition
 
-**November 25, 2026 · Public route and integration guide**
+**November 25, 2026 · Original promotion source and public route guide**
 
 ### Goal and audience
 
@@ -9,7 +9,7 @@ Let a participant identify where to play and where to verify a code. The immedia
 
 ### Design and implementation
 
-The shipped website router defines distinct play and verification pages. The public integration guide projects those two paths from the observed client. Prize allocation, staff actions and redemption records belong upstream. A verifier can accept a code without exposing the private inventory or the person who claimed it. Keep the public URLs documented independently of staff workflows.
+The portfolio includes original participant-side wheel and verification components, the campaign and claim model, and a separate public route manifest. The services depend on the main website database and permissions. A verifier can accept a code without exposing the private inventory or the person who claimed it. Keep the public URLs documented independently of staff workflows.
 
 ### What a contributor can establish
 
@@ -17,7 +17,7 @@ The commands below ran in a clean test context using local files and fixtures. A
 
 ### Evidence and outstanding work
 
-The original spin engine and prize records were unavailable. No redemption, prize funding or availability was verified. The next acceptance case is concrete. A developer can validate both public route shapes from the fixture without creating a spin or redeeming a code.
+Original promotion logic and schema were inspected. No live draw, participant data, prize inventory, redemption or commercial availability was verified. The next acceptance case is concrete. A developer can validate both public route shapes from the fixture without creating a spin or redeeming a code.
 
 ### Place in POTIFY
 
