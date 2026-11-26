@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## The wheel stops. What can a participant verify?
+
+A spinning wheel is the easy part to recognize. The hard part comes afterward, when someone has a code and wants to know what it means. This project keeps the participant’s view, the verification route and the organizer’s responsibilities distinct.
+
+The [public route manifest](src/routes.json) lists the wheel, verification entry and code-specific route. The [participant verification component](reference/pages/spin-verify.tsx) shows the other side of the handoff. A route string cannot establish available prizes, an active event or a completed redemption.
+
+Trace a fictional code through the source and point out the first place a participant could confuse ‘code recognized’ with ‘prize delivered.’ A wording correction is useful here without launching a draw or exposing anyone’s claim.
+
 **Original promotion source and public route guide.** Let a participant identify where to play and where to verify a code.
 
 ### Setup and usage
