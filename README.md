@@ -1,5 +1,13 @@
 # Spin to Win and Prize Verification
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A participant | [Inspect the public route manifest](src/routes.json) | Distinguish the wheel and verification routes. |
+| A developer | [Read the verification component](reference/pages/spin-verify.tsx) | Trace the fictional code handoff. |
+| An event organizer | [Explore the project tree](docs/DIRECTORY.md) | Check the documentation without assuming an event or prize is active. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## The wheel stops. What can a participant verify?
